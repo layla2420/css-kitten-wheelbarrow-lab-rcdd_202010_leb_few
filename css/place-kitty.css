@@ -14,7 +14,7 @@ img #kitty-2  {
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
 
-img #bascket{
+ #bascket img {
   position: absolute;
   z-index: 5;
   top: 291px;
